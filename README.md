@@ -23,8 +23,6 @@ Também discutiremos algumas considerações importantes sobre como escolher nom
 
 A combinação desses dois scripts oferecerá a você uma dupla vantagem na localização rápida e precisa de arquivos em seu sistema operacional, seja ele Windows, Mac ou Linux. Ambos os scripts foram projetados para serem amigáveis aos iniciantes, mas também oferecem recursos úteis para usuários experientes.
 
-Não perca a oportunidade de aprimorar suas habilidades em Python e tornar sua vida digital mais eficiente e produtiva. Inscreva-se em nosso canal, ative as notificações e esteja pronto para dominar a arte de encontrar arquivos como um verdadeiro expert!
-
 Observação: Os scripts aqui expostos no repositório, são destinados apenas a fins educacionais e não devem ser utilizados para fins maliciosos ou ilegais. Respeite a privacidade e a segurança dos sistemas e utilize essas ferramentas com responsabilidade.
 
 # Imagem dos Scripts
