@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	🚧  Os script estão sendo construido ainda...  🚧
+	🚧  Os script estão sendo construido ainda...  🚧 <br />
 	Muitos estão sem testar em um sistema operaciona.
 </h3>
 
